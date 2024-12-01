@@ -1,4 +1,5 @@
-Build an advent calendar with Ruby.
+Build an advent calendar with Ruby.  
+Complete version is 6.rb.
 
 ```shell
 $ ruby 1.rb
@@ -11,5 +12,5 @@ $ ruby 6.rb
 
 ```shell
 # With 4.rb to 6.rb, can pass the date
-$ ruby 4.rb 5
+$ ruby 6.rb 25
 ```
